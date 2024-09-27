@@ -12,3 +12,5 @@ Tecnologias Util
 Kotlin:
 Estúdio Android:
 XML:
+
+Projeto realizado:
